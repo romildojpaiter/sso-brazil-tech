@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"C:\git\sso-project\src\JavaScriptClient\src\JavaScriptClient\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"C:\git\sso-project\src\JavaScriptClient\src\JavaScriptClient\bin\Debug\netcoreapp1.0\JavaScriptClient.dll"
+"C:\git\sso-project\src\JavaScriptClient.JS2\src\JavaScriptClient\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\git\sso-project\src\JavaScriptClient.JS2\src\JavaScriptClient\bin\Debug\netcoreapp1.0\JavaScriptClient.dll"
 -r:"C:\Users\paiters\.nuget\packages\Microsoft.AspNetCore.Cors\1.1.1\lib\netstandard1.3\Microsoft.AspNetCore.Cors.dll"
 -r:"C:\Users\paiters\.nuget\packages\Microsoft.AspNetCore.Diagnostics\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Diagnostics.dll"
 -r:"C:\Users\paiters\.nuget\packages\Microsoft.AspNetCore.Diagnostics.Abstractions\1.0.0\lib\netstandard1.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll"
@@ -121,6 +121,6 @@
 -r:"C:\Users\paiters\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\paiters\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\paiters\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll"
--resource:"C:\git\sso-project\src\JavaScriptClient\src\JavaScriptClient\obj\Debug\netcoreapp1.0\JavaScriptClientdotnet-compile.deps.json",JavaScriptClient.deps.json
-"C:\git\sso-project\src\JavaScriptClient\src\JavaScriptClient\Program.cs"
-"C:\git\sso-project\src\JavaScriptClient\src\JavaScriptClient\Startup.cs"
+-resource:"C:\git\sso-project\src\JavaScriptClient.JS2\src\JavaScriptClient\obj\Debug\netcoreapp1.0\JavaScriptClientdotnet-compile.deps.json",JavaScriptClient.deps.json
+"C:\git\sso-project\src\JavaScriptClient.JS2\src\JavaScriptClient\Program.cs"
+"C:\git\sso-project\src\JavaScriptClient.JS2\src\JavaScriptClient\Startup.cs"

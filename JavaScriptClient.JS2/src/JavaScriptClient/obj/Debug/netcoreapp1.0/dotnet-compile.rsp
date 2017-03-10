@@ -1,5 +1,5 @@
---temp-output:C:\git\sso-project\src\JavaScriptClient\src\JavaScriptClient\obj\Debug\netcoreapp1.0\
---out:C:\git\sso-project\src\JavaScriptClient\src\JavaScriptClient\bin\Debug\netcoreapp1.0\JavaScriptClient.dll
+--temp-output:C:\git\sso-project\src\JavaScriptClient.JS2\src\JavaScriptClient\obj\Debug\netcoreapp1.0\
+--out:C:\git\sso-project\src\JavaScriptClient.JS2\src\JavaScriptClient\bin\Debug\netcoreapp1.0\JavaScriptClient.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -125,6 +125,6 @@
 --reference:C:\Users\paiters\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\paiters\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\paiters\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\git\sso-project\src\JavaScriptClient\src\JavaScriptClient\obj\Debug\netcoreapp1.0\JavaScriptClientdotnet-compile.deps.json",JavaScriptClient.deps.json
-C:\git\sso-project\src\JavaScriptClient\src\JavaScriptClient\Program.cs
-C:\git\sso-project\src\JavaScriptClient\src\JavaScriptClient\Startup.cs
+--resource:"C:\git\sso-project\src\JavaScriptClient.JS2\src\JavaScriptClient\obj\Debug\netcoreapp1.0\JavaScriptClientdotnet-compile.deps.json",JavaScriptClient.deps.json
+C:\git\sso-project\src\JavaScriptClient.JS2\src\JavaScriptClient\Program.cs
+C:\git\sso-project\src\JavaScriptClient.JS2\src\JavaScriptClient\Startup.cs

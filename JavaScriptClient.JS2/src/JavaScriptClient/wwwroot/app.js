@@ -20,10 +20,10 @@ document.getElementById("logout").addEventListener("click", logout, false);
 
 var config = {
     authority: "http://localhost:5000",
-    client_id: "js",
+    client_id: "js2",
     redirect_uri: "http://localhost:5004/callback.html",
     response_type: "id_token token",
-    scope: "openid profile api2",
+    scope: "openid profile api",
     post_logout_redirect_uri: "http://localhost:5004/index.html",
 };
 var mgr = new Oidc.UserManager(config);
